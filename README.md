@@ -1,0 +1,2 @@
+# Space-Mission-2D-Space-Shooter-Game-in-Python-Pygame-
+Space Mission is a 2D arcade-style space shooter built with Python and Pygame. Battle endless enemy waves, face powerful boss ships with unique bullet attacks, and test your survival skills. The game features responsive controls, boss health bars, sound effects, splash and pause menus, and a fully resizable window for smooth gameplay on PC systems.
